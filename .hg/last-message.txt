@@ -1,0 +1,1 @@
+Added getMovieData and movieCmp helper function, and subsequently changed getCredits method

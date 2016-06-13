@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+# Specific files
+imdb-test
+six-degrees
